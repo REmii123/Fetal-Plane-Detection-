@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+model/best_model_phase2_sslvit.pth filter=lfs diff=lfs merge=lfs -text
